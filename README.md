@@ -1,4 +1,4 @@
-# Computer-Aided-Design-F2024
+# Computer-Aided-Design-Course-Projects-F2024
 
 This repository contains a series of hardware design projects implemented as part of the Computer-Aided Design (CAD) course in the Department of Electrical and Computer Engineering.
 Each project explores neural network architectures and digital system design using Verilog HDL and ModelSim simulation.
